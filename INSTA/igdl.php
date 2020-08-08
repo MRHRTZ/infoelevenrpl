@@ -1,4 +1,8 @@
 <?php  
+
+
+// Created by MRHRTZ
+
 	require"api.php";
 
 	$req = file_get_contents('php://input');
