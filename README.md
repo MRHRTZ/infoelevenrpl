@@ -1,8 +1,7 @@
-# infoelevenrpl.github.io
-An Information About XI-RPL Class
+# Source Code
 
 # This Including
-- Absense
-- Cash Balance
-- Description Class Problem
+- Shell
+- Bot Script autoresponder
 - etc
+
