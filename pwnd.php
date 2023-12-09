@@ -67,6 +67,10 @@
         -moz-animation: a11 4s ease-in-out infinite;
     }
 
+    .MRHRTZ {
+        background: black;
+    }
+
     @-webkit-keyframes a11 {
         from {
             width: 70%;
